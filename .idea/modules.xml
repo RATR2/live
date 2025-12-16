@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/live.iml" filepath="$PROJECT_DIR$/.idea/live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/live.client.iml" filepath="$PROJECT_DIR$/.idea/modules/live.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/live.main.iml" filepath="$PROJECT_DIR$/.idea/modules/live.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/live.test.iml" filepath="$PROJECT_DIR$/.idea/modules/live.test.iml" />
     </modules>
   </component>
 </project>

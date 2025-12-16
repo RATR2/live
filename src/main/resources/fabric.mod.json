@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "live",
+  "version": "${version}",
+  "name": "live",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/live/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.r4t.client.liveClient"
+    ],
+    "main": [
+      "org.r4t.live"
+    ]
+  },
+  "mixins": [
+    "live.mixins.json",
+    {
+      "config": "live.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "custom": {
+  "fabric-api:required-on-client": false
+  }
+}

@@ -5,50 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ced57a3-2e37-4761-bc20-d34d369c9a9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/live.client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/live.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/live.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/untitled.client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/untitled.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/untitled.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/8.14.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/8.14.1/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/8.14.1/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/8.14.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/8.14.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/8.14.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/8.14.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/build/reports/problems/problems-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/client/java/org/r4t/client/liveClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/client/java/org/r4t/client/liveDataGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/client/resources/live.client.mixins.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/org/r4t/live.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/main/resources/fabric.mod.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/main/resources/live.mixins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/r4t/live.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/r4t/live.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +85,7 @@
           <value>
             <map>
               <entry key="Build live" value="STOPPED" />
-              <entry key="live" value="FAILED" />
+              <entry key="live" value="STOPPED" />
               <entry key="live [:net.fabricmc.devlaunchinjector.Main.main()]" value="FAILED" />
             </map>
           </value>
